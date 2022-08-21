@@ -4,7 +4,7 @@ I'm Karthik Malli, an independent researcher and writer based in Bangalore, Indi
 
 My work primarily focuses on the intersection of language, history, and identity in the Deccan region and India's southwestern coast — more or less corresponding to the Indian states of Kerala, Karnataka, Goa, Maharashtra, and Telangana.
 
-I believe in highlighting local experience, pursuing lines of enquiry that present the subject in its own organic, synchronic environment as opposed to viewing it as peripheral to something else.  I also make it a point to work with non-English resources.
+I believe in highlighting local experience, pursuing lines of enquiry that present the subject in its own organic, synchronic environment as opposed to viewing it as peripheral to something else.  I also make it a point to work with non-English resources, and archives.
 
 Nearly all of my work is centered in regions that are traditionally not engaged with on their own terms in Anglophone Indian discourse.
 
@@ -27,13 +27,13 @@ Epigraphy, medieval literary traditions, European-Indian contact, early printing
 
 ## Books
 
-- I'm currently working on a book exploring the history of the Dakhni language and its classical literature, for Amazon Westland Publications.
+- I'm currently working on a book exploring the history of the Dakhni language and its classical literature, for Westland Books.
 
-## Typography
+## Typography Research
 
-- *[Here, Typotheque Specimen #18,](https://www.typotheque.com/blog/new_monumental_typotheque_type_specimen_in_162_languages)* with Typotheque, a type foundry based in The Hague, The Netherlands. My contribution to the project was research and text for script summaries including Georgian, Cyrillic, Armenian, Devanagari, and Japanese kana.
+- *[Here, Typotheque Specimen #18,](https://www.typotheque.com/blog/new_monumental_typotheque_type_specimen_in_162_languages)* with Typotheque, a type foundry based in The Hague, The Netherlands. My contribution to the project was research and text for script summaries including Georgian, Cyrillic, Armenian, Devanagari, and Japanese kana. _Here_ [won the 2022 TDC Award for Communication Design.](https://www.oneclub.org/awards/tdcawards/-award/41878/here-a-world-poem-by-tishani-doshi)
 
-- Research on the Devanagari script and its visual evolution through print and policy, for Typotheque. In progress.
+- * _[Devanagari — The Makings of a National Character,]_(https://www.typotheque.com/articles/devanagari-the_makings_of_a_national_character) with Typotheque, on the typographic evolution of the Devanagari script in print, as it intersected with socio-political, literary, and nationalist movements. Research for this essay came from visits to Marathi and Hindi language archives, and involved an in-depth look into literary movements in Marathi and Hindi, technological developments in print, and nationalist thought.
 
 ## Book Reviews
 
