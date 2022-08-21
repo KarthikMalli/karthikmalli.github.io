@@ -33,7 +33,7 @@ Epigraphy, medieval literary traditions, European-Indian contact, early printing
 
 - *[Here, Typotheque Specimen #18,](https://www.typotheque.com/blog/new_monumental_typotheque_type_specimen_in_162_languages)* with Typotheque, a type foundry based in The Hague, The Netherlands. My contribution to the project was research and text for script summaries including Georgian, Cyrillic, Armenian, Devanagari, and Japanese kana. _Here_ [won the 2022 TDC Award for Communication Design.](https://www.oneclub.org/awards/tdcawards/-award/41878/here-a-world-poem-by-tishani-doshi)
 
-- *[Devanagari — The Makings of a National Character,](https://www.typotheque.com/articles/devanagari-the_makings_of_a_national_character) with Typotheque, on the typographic evolution of the Devanagari script in print, as it intersected with socio-political, literary, and nationalist movements. Research for this essay came from visits to Marathi and Hindi language archives, and involved an in-depth look into literary movements in Marathi and Hindi, technological developments in print, and nationalist thought.
+- _[Devanagari — The Makings of a National Character,]_(https://www.typotheque.com/articles/devanagari-the_makings_of_a_national_character) with Typotheque, on the typographic evolution of the Devanagari script in print, as it intersected with socio-political, literary, and nationalist movements. Research for this essay came from visits to Marathi and Hindi language archives, and involved an in-depth look into literary movements in Marathi and Hindi, technological developments in print, and nationalist thought.
 
 ## Book Reviews
 
