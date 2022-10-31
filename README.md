@@ -14,7 +14,7 @@ Epigraphy, medieval literary traditions, European-Indian contact, early printing
 
 ## Selected Narrative Non-Fiction
 
-- [Exploring Jotirao Phule's Place in Modern Marathi Literature & Print Culture](https://caravanmagazine.in/books/jotirao-phule-marathi-print-culture) Longform books essay for _The Caravan_, Oct 2020 edition
+- [Exploring Jotirao Phule's Place in Modern Marathi Literature & Print Culture](https://caravanmagazine.in/books/jotirao-phule-marathi-print-culture), Longform books essay for _The Caravan_, Oct 2020 edition
 - [The Classical Dakhni Tradition in Bijapur](https://caravanmagazine.in/history/the-rise-and-fall-of-dakhni-literature), _The Caravan_, Jan 2020 edition
 - [Karnataka's Persian and Urdu inscriptions](https://www.deccanherald.com/spectrum/spectrum-top-stories/paper-vault-for-states-inscriptions-780958.html), Deccan Herald, 2019
 - [Girish Karnad & Karnataka's Multilingual Literary Heritage](https://www.newslaundry.com/2019/06/15/girish-karnad-and-the-death-of-literary-multilingual-heritage), _Newslaundry_, 2019
