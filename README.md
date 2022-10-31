@@ -14,15 +14,16 @@ Epigraphy, medieval literary traditions, European-Indian contact, early printing
 
 ## Selected Narrative Non-Fiction
 
+- [Exploring Jotirao Phule's Place in Modern Marathi Literature & Print Culture](https://caravanmagazine.in/books/jotirao-phule-marathi-print-culture) Longform books essay for _The Caravan_, Oct 2020 edition
+- [The Classical Dakhni Tradition in Bijapur](https://caravanmagazine.in/history/the-rise-and-fall-of-dakhni-literature), _The Caravan_, Jan 2020 edition
 - [Karnataka's Persian and Urdu inscriptions](https://www.deccanherald.com/spectrum/spectrum-top-stories/paper-vault-for-states-inscriptions-780958.html), Deccan Herald, 2019
-- [Girish Karnad & Karnataka's Multilingual Literary Heritage](https://www.newslaundry.com/2019/06/15/girish-karnad-and-the-death-of-literary-multilingual-heritage), Newslaundry, 2019
--  [The Tale of Wayanad's Sultan Bathery](https://www.firstpost.com/living/once-a-mysorean-military-base-sultan-batherys-jain-temple-bears-witness-to-the-tribulations-of-wayanad-and-its-people-8364731.html), Firstpost, 2020
--  [The Decline of Marathi's Moḍī Script](https://www.thehindu.com/books/the-death-of-a-script/article27021831.ece), The Hindu, 2019
--  [India's Focus on Classical Languages, Ignoring Its Minority Languages](https://www.firstpost.com/opinion/minority-languages-suffer-from-institutional-neglect-biases-as-indian-govt-saves-its-focus-for-classical-languages-8158761.html), Firstpost 2019
--  [The Classical Dakhni Tradition in Bijapur](https://www.deccanherald.com/spectrum/spectrum-top-stories/paper-vault-for-states-inscriptions-780958.html), The Caravan, 2020
--  [Dialect Variation In Tulu](https://www.deccanherald.com/spectrum/spectrum-top-stories/of-vernacular-variety-793430.html), Deccan Herald, 2020
--  [Byari & Its Struggle For Linguistic Identity](https://www.thenewsminute.com/article/tulu-nadus-bashe-byari-language-and-its-struggle-identity-102414), The News Minute, 2019
--  [Across The Netravati - Language Identity In The Tulu Region](https://www.epw.in/journal/2019/14/postscript/across-netravati.html), Economic & Political Weekly, 2019
+- [Girish Karnad & Karnataka's Multilingual Literary Heritage](https://www.newslaundry.com/2019/06/15/girish-karnad-and-the-death-of-literary-multilingual-heritage), _Newslaundry_, 2019
+-  [The Tale of Wayanad's Sultan Bathery](https://www.firstpost.com/living/once-a-mysorean-military-base-sultan-batherys-jain-temple-bears-witness-to-the-tribulations-of-wayanad-and-its-people-8364731.html), _Firstpost_, 2020
+-  [The Decline of Marathi's Moḍī Script](https://www.thehindu.com/books/the-death-of-a-script/article27021831.ece), _The Hindu_, 2019
+-  [India's Focus on Classical Languages, Ignoring Its Minority Languages](https://www.firstpost.com/opinion/minority-languages-suffer-from-institutional-neglect-biases-as-indian-govt-saves-its-focus-for-classical-languages-8158761.html), _Firstpost_ 2019
+-  [Dialect Variation In Tulu](https://www.deccanherald.com/spectrum/spectrum-top-stories/of-vernacular-variety-793430.html), _Deccan Herald_, 2020
+-  [Byari & Its Struggle For Linguistic Identity](https://www.thenewsminute.com/article/tulu-nadus-bashe-byari-language-and-its-struggle-identity-102414), _The News Minute_, 2019
+-  [Across The Netravati - Language Identity In The Tulu Region](https://www.epw.in/journal/2019/14/postscript/across-netravati.html), _Economic & Political Weekly_, 2019
 -  [Mapping The Tulu Language](https://www.thenewsminute.com/article/mapping-tulu-rich-oral-tradition-deep-roots-karnataka-97512), The News Minute, 2019
 
 ## Books
