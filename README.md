@@ -10,6 +10,8 @@ Nearly all of my work is centered in regions that are traditionally not engaged 
 
 Epigraphy, medieval literary traditions, European-Indian contact, early printing, minority language histories, medieval architecture (temples, mosques, and mausolea), are all themes I'm deeply interested in and have worked on in different roles and projects.
 
+Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
+
 # Publications & Work
 
 ## Selected Narrative Non-Fiction
@@ -36,6 +38,8 @@ Epigraphy, medieval literary traditions, European-Indian contact, early printing
 
 - *[Devanagari — The Makings of a National Character,](https://www.typotheque.com/articles/devanagari-the_makings_of_a_national_character)* with Typotheque, on the typographic evolution of the Devanagari script in print, as it intersected with socio-political, literary, and nationalist movements. Research for this essay came from visits to Marathi and Hindi language archives, and involved an in-depth look into literary movements in Marathi and Hindi, technological developments in print, and nationalist thought.
 
+- *[Malayalam — Scripting Modernity and Tradition]* with Typotheque, on script simplification and modernization in Malayalam. The Malayalam script is one of India's most visually complex, with a high number of unique combining forms. The essay delves into the history of script reform in Malayalam, culminating in the 1971 script reform that divided the script into two parallel orthographies, traditional and simplified. Research for this essay came from archival visits in Kerala, and interviews with literary scholars. [Forthcoming]
+
 ## Book Reviews
 
 - [*Wanderers, Kings, Merchants: The Story of India through Its Languages*, Peggy Mohan (2021)](https://www.theindiaforum.in/article/making-india-s-linguistic-landscape), for The India Forum, 2021.
@@ -47,6 +51,7 @@ Epigraphy, medieval literary traditions, European-Indian contact, early printing
 ## Speaking Opportunities
 
 - *The Many Worlds of Dakhni* with Prof. MN Sayeed, Bangalore Literature Festival, 18th Dec 2021.
+- *[Scripting Modernity With Metal Type](https://bangaloreinternationalcentre.org/event/scripting-modernity-with-metal-type/)*, Design History Now, 5th March 2023.
 
 # Skills & Tools I Rely On
 
