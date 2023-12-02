@@ -16,17 +16,18 @@ Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
 ## Selected Narrative Non-Fiction
 
-- [Exploring Jotirao Phule's Place in Modern Marathi Literature & Print Culture](https://caravanmagazine.in/books/jotirao-phule-marathi-print-culture), Longform books essay for _The Caravan_, Oct 2020 edition
-- [The Classical Dakhni Tradition in Bijapur](https://caravanmagazine.in/history/the-rise-and-fall-of-dakhni-literature), _The Caravan_, Jan 2020 edition
-- [Karnataka's Persian and Urdu inscriptions](https://www.deccanherald.com/spectrum/spectrum-top-stories/paper-vault-for-states-inscriptions-780958.html), Deccan Herald, 2019
-- [Girish Karnad & Karnataka's Multilingual Literary Heritage](https://www.newslaundry.com/2019/06/15/girish-karnad-and-the-death-of-literary-multilingual-heritage), _Newslaundry_, 2019
--  [The Tale of Wayanad's Sultan Bathery](https://www.firstpost.com/living/once-a-mysorean-military-base-sultan-batherys-jain-temple-bears-witness-to-the-tribulations-of-wayanad-and-its-people-8364731.html), _Firstpost_, 2020
--  [The Decline of Marathi's Moḍī Script](https://www.thehindu.com/books/the-death-of-a-script/article27021831.ece), _The Hindu_, 2019
--  [India's Focus on Classical Languages, Ignoring Its Minority Languages](https://www.firstpost.com/opinion/minority-languages-suffer-from-institutional-neglect-biases-as-indian-govt-saves-its-focus-for-classical-languages-8158761.html), _Firstpost_ 2019
--  [Dialect Variation In Tulu](https://www.deccanherald.com/spectrum/spectrum-top-stories/of-vernacular-variety-793430.html), _Deccan Herald_, 2020
--  [Byari & Its Struggle For Linguistic Identity](https://www.thenewsminute.com/article/tulu-nadus-bashe-byari-language-and-its-struggle-identity-102414), _The News Minute_, 2019
--  [Across The Netravati - Language Identity In The Tulu Region](https://www.epw.in/journal/2019/14/postscript/across-netravati.html), _Economic & Political Weekly_, 2019
--  [Mapping The Tulu Language](https://www.thenewsminute.com/article/mapping-tulu-rich-oral-tradition-deep-roots-karnataka-97512), The News Minute, 2019
+- [Exploring Jotirao Phule's Place in Modern Marathi Literature & Print Culture](https://caravanmagazine.in/books/jotirao-phule-marathi-print-culture), Longform books essay for _The Caravan_, Oct 2022 edition.
+- [Victory City](https://fiftytwo.in/story/victory-city/), essay on heritage and identity in Bijapur, Karnataka. Published in fiftytwo.in, Jan 2023.
+- [The Classical Dakhni Tradition in Bijapur](https://caravanmagazine.in/history/the-rise-and-fall-of-dakhni-literature), _The Caravan_, Jan 2020 edition.
+- [Karnataka's Persian and Urdu inscriptions](https://www.deccanherald.com/spectrum/spectrum-top-stories/paper-vault-for-states-inscriptions-780958.html), Deccan Herald, 2019.
+- [Girish Karnad & Karnataka's Multilingual Literary Heritage](https://www.newslaundry.com/2019/06/15/girish-karnad-and-the-death-of-literary-multilingual-heritage), _Newslaundry_, 2019.
+-  [The Tale of Wayanad's Sultan Bathery](https://www.firstpost.com/living/once-a-mysorean-military-base-sultan-batherys-jain-temple-bears-witness-to-the-tribulations-of-wayanad-and-its-people-8364731.html), _Firstpost_, 2020.
+-  [The Decline of Marathi's Moḍī Script](https://www.thehindu.com/books/the-death-of-a-script/article27021831.ece), _The Hindu_, 2019.
+-  [India's Focus on Classical Languages, Ignoring Its Minority Languages](https://www.firstpost.com/opinion/minority-languages-suffer-from-institutional-neglect-biases-as-indian-govt-saves-its-focus-for-classical-languages-8158761.html), _Firstpost_ 2019.
+-  [Dialect Variation In Tulu](https://www.deccanherald.com/spectrum/spectrum-top-stories/of-vernacular-variety-793430.html), _Deccan Herald_, 2020.
+-  [Byari & Its Struggle For Linguistic Identity](https://www.thenewsminute.com/article/tulu-nadus-bashe-byari-language-and-its-struggle-identity-102414), _The News Minute_, 2019.
+-  [Across The Netravati - Language Identity In The Tulu Region](https://www.epw.in/journal/2019/14/postscript/across-netravati.html), _Economic & Political Weekly_, 2019.
+-  [Mapping The Tulu Language](https://www.thenewsminute.com/article/mapping-tulu-rich-oral-tradition-deep-roots-karnataka-97512), The News Minute, 2019.
 
 ## Books
 
@@ -38,7 +39,7 @@ Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
 - *[Devanagari — The Makings of a National Character,](https://www.typotheque.com/articles/devanagari-the_makings_of_a_national_character)* with Typotheque, on the typographic evolution of the Devanagari script in print, as it intersected with socio-political, literary, and nationalist movements. Research for this essay came from visits to Marathi and Hindi language archives, and involved an in-depth look into literary movements in Marathi and Hindi, technological developments in print, and nationalist thought.
 
-- *[Malayalam — Scripting Modernity and Tradition]* with Typotheque, on script simplification and modernization in Malayalam. The Malayalam script is one of India's most visually complex, with a high number of unique combining forms. The essay delves into the history of script reform in Malayalam, culminating in the 1971 script reform that divided the script into two parallel orthographies, traditional and simplified. Research for this essay came from archival visits in Kerala, and interviews with literary scholars. [Forthcoming]
+- *[Malayalam — Scripting Modernity and Tradition](https://www.typotheque.com/articles/malayalam-scripting-tradition-and-modernity)* with Typotheque, on script simplification and modernization in Malayalam. The Malayalam script is one of India's most visually complex, with a high number of unique combining forms. The essay delves into the history of script reform in Malayalam, culminating in the 1971 script reform that divided the script into two parallel orthographies, traditional and simplified. Research for this essay came from archival visits in Kerala, and interviews with literary scholars.
 
 ## Book Reviews
 
@@ -46,7 +47,7 @@ Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
 ## Language Technology
 
-- Project Contributor, [New NLP For Kannada](https://newnlp.princeton.edu/language/kannada), Center for Digital Humanities at Princeton University. The project aims to develop NLP models for Classical Kannada by using medieval Kannada inscriptions as a corpus.
+- Project Contributor, [New NLP For Kannada](https://newnlp.princeton.edu/language/kannada), Center for Digital Humanities at Princeton University. The project aims to develop NLP models for Classical Kannada by using medieval Kannada inscriptions as a corpus. 
 
 ## Speaking Opportunities
 
