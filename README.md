@@ -8,7 +8,7 @@ I believe in highlighting local experience, pursuing lines of enquiry that prese
 
 Epigraphy, medieval literary traditions, European-Indian contact, early printing, minority language histories, medieval architecture (temples, mosques, and mausolea), are all themes I'm deeply interested in and have worked on in different roles and projects.
 
-Much of my reent work has been around print histories — graphical, social, and technological - across various Indian languages.
+Much of my reent work has been around print histories — graphical, social, and technological - across various Indian languages. 
 
 Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
@@ -48,7 +48,7 @@ Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
 ## Language Technology
 
-- Project Contributor, [New NLP For Kannada](https://newnlp.princeton.edu/language/kannada), Center for Digital Humanities at Princeton University. The project aims to develop NLP models for Classical Kannada by using medieval Kannada inscriptions as a corpus. 
+- Project Contributor, [New NLP For Kannada](https://newnlp.princeton.edu/language/kannada), Center for Digital Humanities at Princeton University. The project aims to develop NLP models for Classical Kannada by using medieval Kannada inscriptions as a corpus. The project was shelved after a brief run.
 
 ## Speaking Opportunities
 
