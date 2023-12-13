@@ -4,11 +4,11 @@ I'm Karthik Malli, an independent researcher and writer based in Bangalore, Indi
 
 My work primarily focuses on the intersection of language, history, and identity in the Deccan region and India's southwestern coast — more or less corresponding to the Indian states of Kerala, Karnataka, Goa, Maharashtra, and Telangana.
 
-I believe in highlighting local experience, pursuing lines of enquiry that present the subject in its own organic, synchronic environment as opposed to viewing it as peripheral to something else.  I also make it a point to work with non-English resources, and archives.
-
-Nearly all of my work is centered in regions that are traditionally not engaged with on their own terms in Anglophone Indian discourse.
+I believe in highlighting local experience, pursuing lines of enquiry that present the subject in its own organic, synchronic environment as opposed to viewing it as peripheral to something else.  I also make it a point to work with non-English resources, and archives. Nearly all of my work is centered in regions that are traditionally not engaged with on their own terms in Anglophone Indian discourse.
 
 Epigraphy, medieval literary traditions, European-Indian contact, early printing, minority language histories, medieval architecture (temples, mosques, and mausolea), are all themes I'm deeply interested in and have worked on in different roles and projects.
+
+Much of my reent work has been around print histories — graphical, social, and technological - across various Indian languages.
 
 Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
