@@ -29,10 +29,6 @@ Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 -  [Across The Netravati - Language Identity In The Tulu Region](https://www.epw.in/journal/2019/14/postscript/across-netravati.html), _Economic & Political Weekly_, 2019.
 -  [Mapping The Tulu Language](https://www.thenewsminute.com/article/mapping-tulu-rich-oral-tradition-deep-roots-karnataka-97512), The News Minute, 2019.
 
-## Books
-
-- I'm currently working on a book exploring the history of the Dakhni language and its classical literature, for Westland Books.
-
 ## Typography Research
 
 - *[Here, Typotheque Specimen #18,](https://www.typotheque.com/blog/new_monumental_typotheque_type_specimen_in_162_languages)* with Typotheque, a type foundry based in The Hague, The Netherlands. My contribution to the project was research and text for script summaries including Georgian, Cyrillic, Armenian, Devanagari, and Japanese kana. _Here_ [won the 2022 TDC Award for Communication Design.](https://www.oneclub.org/awards/tdcawards/-award/41878/here-a-world-poem-by-tishani-doshi)
@@ -41,9 +37,14 @@ Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
 - *[Malayalam — Scripting Modernity and Tradition](https://www.typotheque.com/articles/malayalam-scripting-tradition-and-modernity)* with Typotheque, on script simplification and modernization in Malayalam. The Malayalam script is one of India's most visually complex, with a high number of unique combining forms. The essay delves into the history of script reform in Malayalam, culminating in the 1971 script reform that divided the script into two parallel orthographies, traditional and simplified. Research for this essay came from archival visits in Kerala, and interviews with literary scholars.
 
+## Books
+
+- I'm currently working on a book exploring the history of the Dakhni language and its classical literature, for Westland Books.
+
 ## Book Reviews
 
 - [*Wanderers, Kings, Merchants: The Story of India through Its Languages*, Peggy Mohan (2021)](https://www.theindiaforum.in/article/making-india-s-linguistic-landscape), for The India Forum, 2021.
+
 
 ## Language Technology
 
