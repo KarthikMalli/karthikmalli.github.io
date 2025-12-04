@@ -2,7 +2,5 @@
 title: Karthik Malli | Independent Researcher-Writer, Indian Languages & History
 description: Learn more about my research and writing work here.
 theme: jekyll-theme-minimal
-
-- name: Deploy to GitHub Pages
-  uses: JamesIves/github-pages-deploy-action@v4.5.0
-            
+name: Deploy to GitHub Pages
+uses: JamesIves/github-pages-deploy-action@v4.5.0
