@@ -8,7 +8,7 @@ I believe in highlighting local experience, pursuing lines of enquiry that prese
 
 Epigraphy, medieval literary traditions, European-Indian contact, early printing, minority language histories, medieval architecture (temples, mosques, and mausolea), are all themes I'm deeply interested in and have worked on in different roles and projects.
 
-Much of my reent work has been around print histories — graphical, social, and technological - across various Indian languages. 
+Much of my recent work has been around print histories — graphical, social, and technological - across various Indian languages. 
 
 Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
