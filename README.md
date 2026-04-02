@@ -1,6 +1,6 @@
 # Research & Writing
 
-I'm Karthik Malli, an independent researcher and writer based in Bangalore, India. 
+I'm Karthik Malli, an independent researcher and writer currently based in Seattle, USA. I'm a Masters student in the South Asian Studies program at the University of Washington, graduating in June '26.
 
 My work primarily focuses on the intersection of language, history, and identity in the Deccan region and India's southwestern coast — more or less corresponding to the Indian states of Kerala, Karnataka, Goa, Maharashtra, and Telangana.
 
@@ -13,6 +13,10 @@ Much of my recent work has been around print histories — graphical, social, an
 Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 
 # Publications & Work
+
+## Data Visualizations + Digital Humanities Work
+
+- [Where do Indian language books in the University of Washington's library collection come from?](https://karthikmalli.github.io/LIS572Project.html) This was my final project for LIS 572 Introduction to Data Science in Fall '25, with Melanie Walsh. Skip to the map [here.](https://karthikmalli.github.io/UW-Book-Map.html)
 
 ## Selected Narrative Non-Fiction
 
@@ -36,10 +40,6 @@ Interested in working with me? Drop me a line at sainyn@gmail.com and say hi :)
 - *[Devanagari — The Makings of a National Character,](https://www.typotheque.com/articles/devanagari-the_makings_of_a_national_character)* with Typotheque, on the typographic evolution of the Devanagari script in print, as it intersected with socio-political, literary, and nationalist movements. Research for this essay came from visits to Marathi and Hindi language archives, and involved an in-depth look into literary movements in Marathi and Hindi, technological developments in print, and nationalist thought.
 
 - *[Malayalam — Scripting Modernity and Tradition](https://www.typotheque.com/articles/malayalam-scripting-tradition-and-modernity)* with Typotheque, on script simplification and modernization in Malayalam. The Malayalam script is one of India's most visually complex, with a high number of unique combining forms. The essay delves into the history of script reform in Malayalam, culminating in the 1971 script reform that divided the script into two parallel orthographies, traditional and simplified. Research for this essay came from archival visits in Kerala, and interviews with literary scholars.
-
-## Books
-
-- I'm currently working on a book exploring the history of the Dakhni language and its classical literature, for Westland Books.
 
 ## Book Reviews
 
